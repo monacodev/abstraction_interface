@@ -1,0 +1,46 @@
+# Eclipse
+.metadata/
+
+# Build
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Dependencies
+*.classpath
+*.project
+.settings/
+
+# Specific to Mac OS
+.DS_Store
+
+# Maven
+target/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.ipr
+*.iws
+*.iml
+*.log
+
+# Logs
+logs/
+*.log
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+
+# Bytecode
+*.class
+
+# Javadoc
+*.javadoc
